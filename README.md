@@ -30,7 +30,6 @@ The report contains 10 pages mixing KPI cards, slicers, and charts:
 | Page 9 | Line chart — Total `BillNo` trend over `Date`, with `CustomerID` slicer |
 | Page 10 | Line chart — `Measure` trend over `Date`, with `Country` slicer *(default landing page)* |
 
-> Pages are currently labeled generically ("Page 1"–"Page 10"); consider renaming them to reflect their content (e.g. "Overview", "Sales by Country", "Top Items", "Trend").
 
 ## 🛠️ Built With
 
